@@ -1,0 +1,62 @@
+h4 {
+	text-align: center;
+	font-size: 35px;
+	margin-top: -45px;
+	color: #aa512f;
+}
+h5 {
+	text-align: center;
+	font-size: 30px;
+}
+
+h6 {
+	text-align: center;
+	color: #aa512f;
+	font-size: 30px;
+}
+img {
+	position: relative;
+	width: 325px;
+	left: 460px;
+	line-height: 10px;
+	box-shadow: 6px 12px 12px rgba(96, 60, 60, 0.31);
+	border-radius: 20%;
+}
+
+i {
+	font-size: 60px;
+	border-radius: 60px;
+	background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+	box-shadow: 6px 12px 12px rgba(96, 60, 60, 0.31);
+}
+
+input {
+	position: relative;
+	left: 518px;
+}
+body {
+	font-family: "Crafty Girls", cursive;
+	font-family: "Nunito", sans-serif;
+	color: #aa512f;
+	background-color: #c5a18d;
+}
+
+.category {
+	text-align: right;
+}
+
+.weather-today {
+	position: relative;
+	left: -59px;
+	top: -48px;
+}
+.card {
+	background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+	position: relative;
+	top: 60px;
+}
+
+.col-2 {
+	font-weight: 600;
+	text-align: center;
+}
