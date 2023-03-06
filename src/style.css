@@ -60,3 +60,9 @@ body {
 	font-weight: 600;
 	text-align: center;
 }
+.github {
+	display: block;
+	position: relative;
+	right: -120px;
+	top: 65px;
+}
